@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "axios": "^0.16.2",
-    "firebase-tools": "^6.9.1",
     "history": "^1.17.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
@@ -21,6 +20,6 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "firebase-tools": "^6.3.0"
+    "firebase-tools": "^6.9.1"
   }
 }
