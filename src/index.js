@@ -7,7 +7,7 @@ import Login from './component/Login';
 import Register from './component/Register';
 import Home from './component/Home';
 import registerServiceWorker from './registerServiceWorker';
-import { Router, Route, Link, IndexRoute ,browserHistory } from 'react-router';
+import { Router, Route, browserHistory } from 'react-router';
 
 var app = document.getElementById('root');
 ReactDOM.render(

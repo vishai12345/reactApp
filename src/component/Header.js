@@ -1,11 +1,8 @@
 import React, { Component } from 'react';
 import '../header.css'
-import { Router, Route, Link, IndexRoute ,browserHistory } from 'react-router';
+import { Link } from 'react-router';
 
 class Header extends Component {
-	constructor(){
-		super();
-	}	
    render() {
       return (
 			<nav className="navbar navbar-inverse">
